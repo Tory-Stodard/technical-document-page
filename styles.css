@@ -41,6 +41,7 @@ body {
 main {
   margin-left: calc(300px + 2rem);
   margin-right: 2rem;
+  margin-bottom: 2rem;
 }
 
 header {
